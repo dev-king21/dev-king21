@@ -6,14 +6,14 @@ Full Stack Web Developer
 
 I've been coding since last year after changing my career from Commerce to Technology. I started with HTML and CSS and now I'm building E-Commerce websites and a lot of different stuff.
 
-* 🌍  I'm based in Panipat,India
+* 🌍  I'm based in Toronto,Canada
 * 🖥️  See my portfolio at <a href="https://developershubhamkapoor.github.io/Portfolio/" target="_blank">Portfolio</a>
-* ✉️  You can contact me at [kapoorshubham483@gmail.com](mailto:kapoorshubham483@gmail.com)
+* ✉️  You can contact me at [goodhelper21@gmail.com](mailto:goodhelper21@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am addicted to Coding , Badminton and Sudoku
 
 <a href="https://www.github.com/dev-king21" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DeveloperShubhamKapoor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/dev-king21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
