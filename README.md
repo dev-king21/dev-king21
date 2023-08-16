@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/dev-king21?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://codesandbox.io/u/kapoorshubham483" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/dev-king21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/hermelindo-lopez" target="_blank" rel="noreferrer"><img style={{background: 'white'}} src="https://img.icons8.com/?size=2x&id=8808&format=png" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/hermelindo-lopez" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=2x&id=8808&format=png" style={background-color: white!important} width="32" height="32" /></a>
 </p>
 
 ### Badges
