@@ -6,8 +6,8 @@ Full Stack Web Developer
 
 I've been coding since last year after changing my career from Commerce to Technology. I started with HTML and CSS and now I'm building E-Commerce websites and a lot of different stuff.
 
-* 🌍  I'm based in Toronto,Canada
-* 🖥️  See my portfolio at <a href="https://dev-king21.github.io" target="_blank">Portfolio</a>
+* 🌍  I'm based in Florida,United States.
+<!-- * 🖥️  See my portfolio at <a href="https://dev-king21.github.io" target="_blank">Portfolio</a> -->
 * ✉️  You can contact me at [goodhelper21@gmail.com](mailto:goodhelper21@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am addicted to Coding , Badminton and Sudoku
