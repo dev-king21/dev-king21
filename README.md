@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Senior Software Engineer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Full Stack Engineer
 ======================================================================================================================================
 
-Senior Software Engineer
+Full Stack Engineer
 ------------------------
 
-I've been coding since last year after changing my career from Commerce to Technology. I started with HTML and CSS and now I'm building E-Commerce websites and a lot of different stuff.
 
+Full Stack Engineer with hands-on experience building modern web applications using React, Node.js, and MongoDB. Experienced in developing AI-powered features, including integrating machine learning models, LLM-based workflows, and data-driven systems into real-world applications. Strong background in backend development with Java (Spring Boot) and C#/.NET, building scalable APIs and enterprise-grade services. Transitioned into tech with strong self-learning ability and built 100+ projects across web, mobile, blockchain, and AI domains. Passionate about turning ideas into real products and continuously improving through coding.
 * ✉️  You can contact me at [goodhelper21@gmail.com](mailto:goodhelper21@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am addicted to Coding , Badminton and Sudoku
